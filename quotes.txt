@@ -2,14 +2,15 @@
 "You cannot get to where you want to be by pushing against what you do not want - it never, ever works." -- Abraham
 "You cannot judge the value of a life by its quantity. It is by the joy that you are feeling." -- Abraham
 "You cannot worry about someone and love them at the same time. Most people mistake the emotion of worry for the emotion of love. They think that worrying about somebody means that you love them." -- Abraham
+"How would I treat myself right now if I was someone I deeply care about?",Adyashanti
 "Awareness is always there, but it doesn't do you much good until you bring consciousness to it, even for brief moments. Don't be too concerned with how long you can sustain it. It's more important how often you check in. If you keep checking in, the sustaining of it happens on its own." -- Adyashanti
 "Each human is a point of orientation through which the Universe experiences itself." -- Adyashanti
 "Everybody has their difficulty. Nobody gets out unscathed." -- Adyashanti
-"How would I treat myself right now if I was someone I deeply care about?" -- Adyashanti
 "In this moment there is always freedom and there is always peace. This moment in which you experience stillness is every moment. Don't let the mind seduce you into the past or the future. Stay in the moment, and dare to consider that you can be free now." -- Adyashanti
 "In this very moment, the awareness that is reading these words, the awareness that looks out, the awareness that sees, the awareness that is hearing the sounds around you-recognizing that awareness, before you even try to be aware, is the doorway to the fundamental reality. That awareness is the awareness of the infinite; that awareness is itself the infinite being aware." -- Adyashanti
-"Make no mistake about it - enlightenment is a destructive process. It has nothing to do with becoming better or being happier. Enlightenment is the crumbling away of untruth. It's seeing through the faÃ§ade of pretense. It's the complete eradication of everything we imagine to be true." -- Adyashanti
+"Make no mistake about it - enlightenment is a destructive process. It has nothing to do with becoming better or being happier. Enlightenment is the crumbling away of untruth. It's seeing through the facade of pretense. It's the complete eradication of everything we imagine to be true." -- Adyashanti
 "Nobody is making you feel what you're feeling. Nobody has the power to make you feel something negative emotionally. Your reactions are caused by how you interpret any situation. This is so important because it means that you ultimately become your own resource of emotional freedom and truth." -- Adyashanti
+"Not knowing is the way to deeper liberating knowledge." -- Adyashanti
 "One of the primary ways we suffer is when we are addicted to not wanting the world to be the way it is. Begin to reexamine what your own emotional hang-ups are, the parts of your experience where you're addicted to a demand for life to be other than it is. The depth of your awakened vision will put more and more pressure on whatever addictive demands you're still holding onto, and whatever emotional turmoil you still have within you." -- Adyashanti
 "Suffering is how Life tells you that you are resisting or misperceiving what is real and true. It is the way Life suggests that you are not in harmony with what Is." -- Adyashanti
 "There is no such thing as an absolutely True thought. This doesn't mean that some thoughts are not truer than others, only that no thought is absolutely True." -- Adyashanti
@@ -37,10 +38,9 @@
 "Challenges are here to awaken you and even if you're awakening, life continuously gives you challenges and then the awakening accelerates and deepens." -- Eckhart Tolle
 "Do what you have to do. In the meantime, accept what is." -- Eckhart Tolle
 "Each individual is an expression of the collective consciousness of humanity and the collective consciousness of humanity is an expression of the One universal consciousness." -- Eckhart Tolle
-"Each individual is an expression of the collective consciousness of humanity, and the collective consciousness of humanity is an expression of the One universal consciousness." -- Eckhart Tolle
 "Each person's life,each life-form, in fact,represents a world, a unique way in which the universe experiences itself." -- Eckhart Tolle
 "Ego implies unawareness. Awareness and ego cannot coexist." -- Eckhart Tolle
-"Every addiction arises from an unconscious refusal to face & move through your own pain. Every addiction starts with pain & ends with pain." -- Eckhart Tolle
+"Every addiction arises from an unconscious refusal to face & move through your own pain. "Every addiction starts with pain & ends with pain." -- Eckhart Tolle
 "Every fragment of self-talk is a little story in the head that goes around, and then you look at reality through the lens of the little story." -- Eckhart Tolle
 "Failure lies concealed in every success, and success in every failure." -- Eckhart Tolle
 "Faith is trust. Faith is a deep sense of connectedness with Being." -- Eckhart Tolle
@@ -81,7 +81,8 @@
 "Suffering is necessary until you realize it is unnecessary." -- Eckhart Tolle
 "Surrender becomes easier when you realize the fleeting nature of all experiences." -- Eckhart Tolle
 "The awakening consciousness in you recognizes truth when it is encountered." -- Eckhart Tolle
-"The basis for true change is freedom from negativity. And that's what acceptance implies: no negativity about what is. And then you see what this moment requires: what is it that is required now so that life can express itself more fully?" -- Eckhart Tolle
+"The basis for true change is freedom from negativity. And that's what acceptance implies: no negativity about what is. And then you see what this moment requires: what is it that is required now so that life can express itself more fully?,Eckhart Tolle
+"The beginning of spiritual awakening is the realization that you are not the voice in your head but the one who is aware of the voice. You are the awareness behind your thoughts. As this realization grows, you begin to derive your sense of identity increasingly from the space of awareness rather than from the narratives in your mind." -- Eckhart Tolle
 "The ego is sustained by continuous resistance." -- Eckhart Tolle
 "The eternal present is the space within which your whole life unfolds, the one factor that remains constant." -- Eckhart Tolle
 "The formless dimension of pure consciousness arises from within you and replaces identification with form." -- Eckhart Tolle
@@ -130,7 +131,7 @@
 "You attract and manifest whatever corresponds to your inner state." -- Eckhart Tolle
 "You cannot find yourself in the past or future. The only place where you can find yourself is in the Now." -- Eckhart Tolle
 "You do not need to always conceptualize, interpret or label everything that comes into your awareness." -- Eckhart Tolle
-"You don't HAVE a life! You ARE life!" -- Eckhart Tolle
+"You don't HAVE a life! You ARE life!,Eckhart Tolle
 "You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level." -- Eckhart Tolle
 "You forgive yourself by realizing that nobody can act beyond their level of consciousness." -- Eckhart Tolle
 "Your inner purpose is to awaken. It is as simple as that. You share that purpose with every other person on the planet,because it is the purpose of humanity." -- Eckhart Tolle
@@ -142,10 +143,11 @@
 "All we are is peace, love, and wisdom, and the power to create the illusion that we are not." -- Jack Pransky
 "The Doing follows the Being & the Being is where the wisdom is." -- Jacqueline Hollows
 "Sadness does not want to be healed, it wants to be held." -- Jeff Foster
-"Time is a created thing. To say, 'I don't have time' is like saying, 'I don't want to.'" -- Lao Tzu
+"Time is a created thing. To say, 'I don't have time' is like saying, 'I don't want to.'",Lao Tzu
 "The delusion that we can usefully predict the future kills countless dreams and splendid plans." -- Michael Neill
 "We plan our lives as though they're linear, but things work themselves out through a series of happy accidents." -- Michael Neill
 "When our thoughts look real, we live in a world of suffering. When they look subjective, we live in a world of choice. When they look arbitrary, we live in a world of possibility. And when we see them as illusory, we wake up inside a world of dreams." -- Michael Neill
+"The sense of beingness that is fundamental to all of existence and is shared, is not as isolated or me-centric as the stickier 'I' thought." -- Mukti
 "To be wholly present to any thought pattern or conditioning that's calling for your clear seeing, your complete listening, to rectify that pattern, you're expressing your enlightened nature." -- Mukti
 "Changes are inevitable in the changeful, but you are not subject to them. You are the changeless background against which changes are perceived." -- Nisargadatta Maharaj
 "Give all your attention to the question 'What is it that makes me conscious?' until your mind becomes the question itself and cannot think of anything else." -- Nisargadatta Maharaj
@@ -164,7 +166,9 @@
 "By far the larger part of the apparently separate self exists as a feeling in the body, not just a thought in the mind. Until the non-dual understanding penetrates deeply into the body, though our understanding may be clear, we will continue to feel, act, perceive and relate in ways that betray the apparent existence of a separate self." -- Rupert Spira
 "Enlightenment is not an experience. It is the revelation of the true nature of all experience." -- Rupert Spira
 "Enlightenment is the end of one process - thinking and feeling oneself to be a separate, limited self - but the beginning of another - the realignment of the body, mind and world with this new, experiential understanding." -- Rupert Spira
+"Experience is ever-changing in name and form but never-changing in essence." -- Rupert Spira
 "Experience is one seamless, unnameable, intimate whole. It is thought alone that divides this intimacy into an apparent multiplicity and diversity of objects and selves, thereby imagining a 'me' and a 'not me'." -- Rupert Spira
+"Happiness is simply to allow everything to be exactly as it is from moment to moment." -- Rupert Spira
 "Happiness is simply to allow everything to be exactly as it is from moment to moment." -- Rupert Spira
 "Happiness or peace is the absence of resistance or seeking. It is the natural and ever-present condition of our Self, Awareness, in all situations and under all circumstances." -- Rupert Spira
 "Happiness, which is the simple knowing of our own Being as it essentially is, is not dependent on the conditions of the body, mind or world. It is our ever-present nature. It lies shining quietly in the background of all experience and, when it is recognized, overflows into the foreground, pervading all experience with its qualities." -- Rupert Spira
@@ -172,14 +176,20 @@
 "I shines as the Knowing in all that is known, just as the sun shines as the light in all that is seen." -- Rupert Spira
 "If we invest our happiness in an intermittent object, substance, activity, relationship or state, we are, by definition, securing unhappiness for ourselves." -- Rupert Spira
 "If we replace the impulse to avoid uncomfortable feelings with a desire to face and explore them deeply, we find, at their heart, exactly what we were seeking by trying to avoid them." -- Rupert Spira
+"If we replace the impulse to avoid uncomfortable feelings with a desire to face and explore them deeply, we find, at their heart, exactly what we were seeking by trying to avoid them." -- Rupert Spira
 "If we want to change our thoughts, we will have to start by changing the universe." -- Rupert Spira
 "If we want to learn to live without suffering, we first have to learn to live with it. When suffering is welcomed so completely that there is not the slightest resistance to it, what we were seeking, by trying to get rid of it, is revealed at its heart." -- Rupert Spira
 "In fear or resistance, we are pulled towards a past; in desire or seeking, we are propelled towards a future. Resistance and seeking are the two essential forms of the separate self. The only place they cannot stand is Now." -- Rupert Spira
+"Meditation in the Direct Path is the recognition in which awareness’s awareness of itself ceases to be obscured by its awareness of objects." -- Rupert Spira
 "Meditation is what we are, not what we do; the separate self is what we do, not what we are." -- Rupert Spira
+"Mind is awareness in motion; awareness is mind at rest." -- Rupert Spira
+"Nothing ever happens to the knowing with which all experience is known. It is never disturbed or agitated by anything that takes place in experience and is thus peace itself. It is neither enhanced nor diminished by anything that it knows or experiences, and is thus happiness itself." -- Rupert Spira
 "Suffering expresses itself as the activity of resisting what is present and seeking what is not present. The separate self is made of that activity." -- Rupert Spira
 "Suffering is not the opposite of happiness; it is the veiling of happiness. It is a call from happiness itself, reminding us that we have mistaken our Self for an idea, an image or an object." -- Rupert Spira
 "That for which all people long, is eternally present, shining at the heart of all experience." -- Rupert Spira
 "The discovery that peace, happiness and love are ever-present within our own Being, and completely available at every moment of experience, under all conditions, is the most important discovery that anyone can make." -- Rupert Spira
+"The discovery that peace, happiness and love are ever-present within our own Being, and completely available at every moment of experience, under all conditions, is the most important discovery that anyone can make." -- Rupert Spira
+"The knowledge 'I am' is the experience in which the finite mind and awareness intersect. It is a beacon that shines with the presence of awareness in the midst of experience. It is a portal through which the mind passes on its journey back to its source." -- Rupert Spira
 "The only barrier to peace and happiness is the thought that considers the current situation wrong or inadequate." -- Rupert Spira
 "The only barrier to peace and happiness is the thought that considers the current situation wrong or inadequate. That thought is like a plant that flowers in our feelings, activities and relationships, but has deep roots. It is not enough to pick the flower." -- Rupert Spira
 "The past is made of memory, the future of imagination. Neither have any existence outside the thought that thinks them." -- Rupert Spira
@@ -200,4 +210,5 @@
 "What we are talking about is learning to live in the present moment, in the now. When you aren't distracted by your own negative thinking, when you don't allow yourself to get lost in moments that are gone or yet to come, you are left with this moment. This moment-now-truly is the only moment you have. It is beautiful and special. Life is simply a series of such moments to be experienced one right after another. If you attend to the moment you are in and stay connected to your soul and remain happy, you will find that your heart is filled with positive feelings." -- Sydney Banks
 "With our intellect, we discover. With an insight, we uncover." -- Sydney Banks
 "Your thoughts are like the artist's brush. They create a personal picture of the reality you live in." -- Sydney Banks
-"Simplify, simplify, simplify" -- Thoreau
+"Simplify, simplify, simplify",Thoreau
+"There is only one time you can be of help to a person and that is when you can close your eyes to the appearance and go straight to God." -- Unknown
